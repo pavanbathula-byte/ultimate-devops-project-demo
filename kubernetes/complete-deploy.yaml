@@ -509,7 +509,7 @@ spec:
           ports:
             
             - containerPort: 8080
-              name: service
+              name: service1
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -575,7 +575,7 @@ spec:
           ports:
             
             - containerPort: 8080
-              name: service
+              name: service2
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -651,7 +651,7 @@ spec:
           ports:
             
             - containerPort: 8080
-              name: service
+              name: service3
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -737,7 +737,7 @@ spec:
           ports:
             
             - containerPort: 8080
-              name: service
+              name: service4
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -799,7 +799,7 @@ spec:
           ports:
             
             - containerPort: 8080
-              name: service
+              name: service5
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -866,7 +866,7 @@ spec:
           ports:
             
             - containerPort: 8013
-              name: service
+              name: service6
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -895,7 +895,7 @@ spec:
           ports:
             
             - containerPort: 4000
-              name: service
+              name: service7
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -1042,7 +1042,7 @@ spec:
           ports:
             
             - containerPort: 8080
-              name: service
+              name: service8
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -1132,7 +1132,7 @@ spec:
           ports:
             
             - containerPort: 8080
-              name: service
+              name: service9
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -1228,7 +1228,7 @@ spec:
           ports:
             
             - containerPort: 8081
-              name: service
+              name: service3
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -1358,7 +1358,7 @@ spec:
           ports:
             
             - containerPort: 8089
-              name: service
+              name: service4
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -1436,7 +1436,7 @@ spec:
           ports:
             
             - containerPort: 8080
-              name: service
+              name: service11
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -1504,7 +1504,7 @@ spec:
           ports:
             
             - containerPort: 8080
-              name: service
+              name: service13
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -1568,7 +1568,7 @@ spec:
           ports:
             
             - containerPort: 8080
-              name: service
+              name: service14
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -1634,7 +1634,7 @@ spec:
           ports:
             
             - containerPort: 8080
-              name: service
+              name: service15
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
@@ -1701,7 +1701,7 @@ spec:
           ports:
             
             - containerPort: 8080
-              name: service
+              name: service16
           env:
             - name: OTEL_SERVICE_NAME
               valueFrom:
